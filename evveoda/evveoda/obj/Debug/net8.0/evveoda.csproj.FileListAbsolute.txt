@@ -1,0 +1,14 @@
+/Users/svage/RiderProjects/evveoda/evveoda/bin/Debug/net8.0/evveoda
+/Users/svage/RiderProjects/evveoda/evveoda/bin/Debug/net8.0/evveoda.deps.json
+/Users/svage/RiderProjects/evveoda/evveoda/bin/Debug/net8.0/evveoda.runtimeconfig.json
+/Users/svage/RiderProjects/evveoda/evveoda/bin/Debug/net8.0/evveoda.dll
+/Users/svage/RiderProjects/evveoda/evveoda/bin/Debug/net8.0/evveoda.pdb
+/Users/svage/RiderProjects/evveoda/evveoda/obj/Debug/net8.0/evveoda.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svage/RiderProjects/evveoda/evveoda/obj/Debug/net8.0/evveoda.AssemblyInfoInputs.cache
+/Users/svage/RiderProjects/evveoda/evveoda/obj/Debug/net8.0/evveoda.AssemblyInfo.cs
+/Users/svage/RiderProjects/evveoda/evveoda/obj/Debug/net8.0/evveoda.csproj.CoreCompileInputs.cache
+/Users/svage/RiderProjects/evveoda/evveoda/obj/Debug/net8.0/evveoda.dll
+/Users/svage/RiderProjects/evveoda/evveoda/obj/Debug/net8.0/refint/evveoda.dll
+/Users/svage/RiderProjects/evveoda/evveoda/obj/Debug/net8.0/evveoda.pdb
+/Users/svage/RiderProjects/evveoda/evveoda/obj/Debug/net8.0/evveoda.genruntimeconfig.cache
+/Users/svage/RiderProjects/evveoda/evveoda/obj/Debug/net8.0/ref/evveoda.dll
